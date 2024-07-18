@@ -1,0 +1,170 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Sans Pro', sans-serif;
+    user-select: none;
+    user-zoom: none;
+}
+
+p{
+    margin: 0;
+}
+
+.app-actions{
+    position:absolute;
+    top:75px;
+    right: 3px;
+}
+
+.minimize{
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    border: 2px solid white;
+    background-color: #60C6FF;
+}
+
+.maximize{
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    border: 2px solid white;
+    background-color: #5CFF23;
+    margin-left: 7px;
+    margin-right: 7px;
+}
+
+.close{
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    border: 2px solid white;
+    background-color: #FF2E2E;
+}
+
+.login{
+    position: absolute;
+    top:58%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    width: 313px;
+    height: 462px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 15px;
+    /*border: 2px solid black;*/
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.342);
+}
+
+.login-input{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    
+}
+
+.inpt-wide{
+    height: 38px;
+    border: 0;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.342);
+    border-radius: 10px;
+}
+
+.nexid-input{
+    width: 163px;
+    font-size: 10px;
+    padding-left: 10px;
+    color: rgb(54, 54, 54);
+}
+
+.nexid p{
+    font-size: 10px;
+    margin: 5px;
+}
+
+.pass-input{
+    width: 220px;
+    font-size: 10px;
+    padding-left: 10px;
+    color: rgb(54, 54, 54);
+}
+
+.pass p{
+    font-size: 10px;
+    margin: 5px;
+}
+
+.pass{
+    margin-top: 20px;
+}
+
+.pass-hint{
+    position: absolute;
+    top: 150px;
+    left: 50%;
+    font-size: 7px;
+    transform: translate(-50%, 0);
+    width: 120px;
+}
+
+.login-term-condition{
+    position: absolute;
+    top: 230px;
+    left: 40px;
+    width: 230px;
+}
+
+.login-term-condition p{
+    position: absolute;
+    top: 0px;
+    left: 25px;
+    font-size: 8px;
+}
+
+.login-term-condition input{
+    width: 10px;
+    height: 10px;
+}
+
+.login-buttons{
+    position: absolute;
+    top: 280px;
+    right: 25px;
+}
+
+.login-signin{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 144px;
+    height: 38px;
+    border-radius: 15px;
+    border: 0;
+    font-size: 10px;
+    background-color: #9FD7FF;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.342);
+}
+
+.login-signup{
+    position: absolute;
+    top: 50px;
+    right: 0px;
+    width : 186px;
+    height: 38px;
+    border-radius: 15px;
+    border: 0;
+    font-size: 10px;
+    background-color: #F3F3F3;
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.342);
+}
+
+.login-company-name{
+    margin: 0;
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translate(-50%, 0);
+    font-size: 10px;
+    color: rgb(186, 186, 186);
+}

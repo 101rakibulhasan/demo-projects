@@ -1,0 +1,35 @@
+{
+    "nexid" : "000001-TCD-190323",
+    "create-date" : "19/03/2023",
+    "password" : "1234567890",
+    "encryption-key" : "31316543679071234546",
+    "index" : 0,
+    
+    "personal-photo" : "https://storage.nexina.com/account/uid?000001-TCD-190323-profile.jpg",
+    "first-name" : "Roberta",
+    "middle-name" : "",
+    "last-name" : "Monarch",
+    "full-name" : "Roberta Monarch",
+    "country-code" : "880",
+    "iso-code":"BD / BGD",
+    "gender" : "M",
+    "dob" : "22/07/2001",
+
+    "phone-no" : "01633771417",
+    "email" : "robertamonarch@gmail.com",
+
+    "haveBubble" : 0,
+
+    "social-friends" : [
+        {
+            "nexid" : "000003-TCD-190323",
+            "phone-no" : "01633771477",
+            "email" : "rober@gmail.com"
+        },
+        {
+            "nexid" : "000004-TCD-190324",
+            "phone-no" : "01633776417",
+            "email" : "robertam@gmail.com"
+        }
+    ]
+}

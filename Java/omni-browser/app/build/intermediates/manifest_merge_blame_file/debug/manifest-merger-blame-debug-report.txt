@@ -1,0 +1,254 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="nexina.omni.browser"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:5:2-63
+11-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:5:19-61
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:6:2-75
+12-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:6:19-73
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:7:2-76
+13-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:7:19-74
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:8:2-77
+14-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:8:19-75
+15
+16    <permission
+16-->[androidx.core:core:1.9.0] C:\Users\101ra\.gradle\caches\8.10\transforms\448229d016c994b93f2927e1c0a87521\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+17        android:name="nexina.omni.browser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+17-->[androidx.core:core:1.9.0] C:\Users\101ra\.gradle\caches\8.10\transforms\448229d016c994b93f2927e1c0a87521\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+18        android:protectionLevel="signature" />
+18-->[androidx.core:core:1.9.0] C:\Users\101ra\.gradle\caches\8.10\transforms\448229d016c994b93f2927e1c0a87521\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+19
+20    <uses-permission android:name="nexina.omni.browser.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+20-->[androidx.core:core:1.9.0] C:\Users\101ra\.gradle\caches\8.10\transforms\448229d016c994b93f2927e1c0a87521\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+20-->[androidx.core:core:1.9.0] C:\Users\101ra\.gradle\caches\8.10\transforms\448229d016c994b93f2927e1c0a87521\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+21
+22    <application
+22-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:9:2-96:16
+23        android:allowBackup="true"
+23-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:10:3-29
+24        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+24-->[androidx.core:core:1.9.0] C:\Users\101ra\.gradle\caches\8.10\transforms\448229d016c994b93f2927e1c0a87521\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+25        android:debuggable="true"
+26        android:extractNativeLibs="true"
+27        android:fitsSystemWindows="true"
+27-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:19:3-35
+28        android:fullBackupContent="true"
+28-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:17:3-35
+29        android:hardwareAccelerated="true"
+29-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:15:3-37
+30        android:icon="@drawable/app_icon"
+30-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:12:3-36
+31        android:label="Omni Browser"
+31-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:11:3-31
+32        android:largeHeap="true"
+32-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:13:3-27
+33        android:requestLegacyExternalStorage="true"
+33-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:14:3-46
+34        android:testOnly="true"
+35        android:theme="@style/AppTheme"
+35-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:20:3-34
+36        android:usesCleartextTraffic="true"
+36-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:18:3-38
+37        android:windowSoftInputMode="adjustResize" >
+37-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:16:3-45
+38        <activity
+38-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:21:3-32:14
+39            android:name="nexina.omni.browser.MainActivity"
+39-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:23:4-32
+40            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+40-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:24:4-97
+41            android:exported="true"
+41-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:22:4-27
+42            android:hardwareAccelerated="true"
+42-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:25:4-38
+43            android:supportsPictureInPicture="true"
+43-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:26:4-43
+44            android:windowSoftInputMode="stateHidden" >
+44-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:27:4-45
+45            <intent-filter>
+45-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:28:4-31:20
+46                <action android:name="android.intent.action.MAIN" />
+46-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:29:5-56
+46-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:29:13-54
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:30:5-64
+48-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:30:15-62
+49            </intent-filter>
+50        </activity>
+51        <activity
+51-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:33:3-39:47
+52            android:name="nexina.omni.browser.ViewSourceActivity"
+52-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:34:4-38
+53            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+53-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:35:4-97
+54            android:hardwareAccelerated="true"
+54-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:36:4-38
+55            android:screenOrientation="portrait"
+55-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:38:4-40
+56            android:supportsPictureInPicture="true"
+56-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:37:4-43
+57            android:windowSoftInputMode="stateHidden" />
+57-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:39:4-45
+58        <activity
+58-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:40:3-46:47
+59            android:name="nexina.omni.browser.BookmarkActivity"
+59-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:41:4-36
+60            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+60-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:42:4-97
+61            android:hardwareAccelerated="true"
+61-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:43:4-38
+62            android:screenOrientation="portrait"
+62-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:45:4-40
+63            android:supportsPictureInPicture="true"
+63-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:44:4-43
+64            android:windowSoftInputMode="stateHidden" />
+64-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:46:4-45
+65        <activity
+65-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:47:3-53:47
+66            android:name="nexina.omni.browser.LockActivity"
+66-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:48:4-32
+67            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+67-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:49:4-97
+68            android:hardwareAccelerated="true"
+68-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:50:4-38
+69            android:screenOrientation="portrait"
+69-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:52:4-40
+70            android:supportsPictureInPicture="true"
+70-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:51:4-43
+71            android:windowSoftInputMode="stateHidden" />
+71-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:53:4-45
+72        <activity
+72-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:54:3-60:47
+73            android:name="nexina.omni.browser.InfoActivity"
+73-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:55:4-32
+74            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+74-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:56:4-97
+75            android:hardwareAccelerated="true"
+75-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:57:4-38
+76            android:screenOrientation="portrait"
+76-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:59:4-40
+77            android:supportsPictureInPicture="true"
+77-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:58:4-43
+78            android:windowSoftInputMode="stateHidden" />
+78-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:60:4-45
+79        <activity
+79-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:61:3-67:47
+80            android:name="nexina.omni.browser.SettingActivity"
+80-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:62:4-35
+81            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+81-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:63:4-97
+82            android:hardwareAccelerated="true"
+82-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:64:4-38
+83            android:screenOrientation="portrait"
+83-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:66:4-40
+84            android:supportsPictureInPicture="true"
+84-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:65:4-43
+85            android:windowSoftInputMode="stateHidden" />
+85-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:67:4-45
+86        <activity
+86-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:68:3-74:47
+87            android:name="nexina.omni.browser.NotreadyActivity"
+87-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:69:4-36
+88            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+88-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:70:4-97
+89            android:hardwareAccelerated="true"
+89-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:71:4-38
+90            android:screenOrientation="portrait"
+90-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:73:4-40
+91            android:supportsPictureInPicture="true"
+91-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:72:4-43
+92            android:windowSoftInputMode="stateHidden" />
+92-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:74:4-45
+93        <activity
+93-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:75:3-81:47
+94            android:name="nexina.omni.browser.HistoryActivity"
+94-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:76:4-35
+95            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+95-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:77:4-97
+96            android:hardwareAccelerated="true"
+96-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:78:4-38
+97            android:screenOrientation="portrait"
+97-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:80:4-40
+98            android:supportsPictureInPicture="true"
+98-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:79:4-43
+99            android:windowSoftInputMode="stateHidden" />
+99-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:81:4-45
+100
+101        <meta-data
+101-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:82:3-84:59
+102            android:name="com.google.android.gms.version"
+102-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:83:4-49
+103            android:value="@integer/google_play_services_version" />
+103-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:84:4-57
+104
+105        <provider
+105-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:85:3-89:29
+106            android:name="com.google.firebase.provider.FirebaseInitProvider"
+106-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:86:4-68
+107            android:authorities="nexina.omni.browser.firebaseinitprovider"
+107-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:87:4-66
+108            android:directBootAware="true"
+108-->[com.google.firebase:firebase-common:21.0.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0afd9a98b4fcf3ba2070eb71f7ae4c0b\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:26:13-43
+109            android:exported="false"
+109-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:88:4-28
+110            android:initOrder="100" />
+110-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:89:4-27
+111
+112        <service
+112-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:90:3-92:30
+113            android:name="com.google.firebase.components.ComponentDiscoveryService"
+113-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:91:4-75
+114            android:directBootAware="true"
+114-->[com.google.firebase:firebase-common:21.0.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0afd9a98b4fcf3ba2070eb71f7ae4c0b\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:32:13-43
+115            android:exported="false" >
+115-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:92:4-28
+116            <meta-data
+116-->[com.google.firebase:firebase-common:21.0.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0afd9a98b4fcf3ba2070eb71f7ae4c0b\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:35:13-37:85
+117                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+117-->[com.google.firebase:firebase-common:21.0.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0afd9a98b4fcf3ba2070eb71f7ae4c0b\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:36:17-109
+118                android:value="com.google.firebase.components.ComponentRegistrar" />
+118-->[com.google.firebase:firebase-common:21.0.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0afd9a98b4fcf3ba2070eb71f7ae4c0b\transformed\jetified-firebase-common-21.0.0\AndroidManifest.xml:37:17-82
+119        </service>
+120
+121        <uses-library
+121-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:93:3-95:30
+122            android:name="org.apache.http.legacy"
+122-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:94:4-41
+123            android:required="false" />
+123-->E:\Software\Omni Browser\OmniBrowser_androidstudio\app\src\main\AndroidManifest.xml:95:4-28
+124
+125        <provider
+125-->[androidx.emoji2:emoji2:1.2.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0c2427f0d371981558d33c693ecc63ac\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+126            android:name="androidx.startup.InitializationProvider"
+126-->[androidx.emoji2:emoji2:1.2.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0c2427f0d371981558d33c693ecc63ac\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+127            android:authorities="nexina.omni.browser.androidx-startup"
+127-->[androidx.emoji2:emoji2:1.2.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0c2427f0d371981558d33c693ecc63ac\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+128            android:exported="false" >
+128-->[androidx.emoji2:emoji2:1.2.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0c2427f0d371981558d33c693ecc63ac\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+129            <meta-data
+129-->[androidx.emoji2:emoji2:1.2.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0c2427f0d371981558d33c693ecc63ac\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+130                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+130-->[androidx.emoji2:emoji2:1.2.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0c2427f0d371981558d33c693ecc63ac\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+131                android:value="androidx.startup" />
+131-->[androidx.emoji2:emoji2:1.2.0] C:\Users\101ra\.gradle\caches\8.10\transforms\0c2427f0d371981558d33c693ecc63ac\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+132            <meta-data
+132-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\101ra\.gradle\caches\8.10\transforms\c99dd815d4849115e8404ef65d86d806\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+133                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+133-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\101ra\.gradle\caches\8.10\transforms\c99dd815d4849115e8404ef65d86d806\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+134                android:value="androidx.startup" />
+134-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\101ra\.gradle\caches\8.10\transforms\c99dd815d4849115e8404ef65d86d806\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+135        </provider>
+136    </application>
+137
+138</manifest>

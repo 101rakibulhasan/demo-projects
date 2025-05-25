@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_https_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_https_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_history.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/history.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_refresh_grey.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_refresh_grey.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_arrow_forward_black.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_arrow_forward_black.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_logo.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/logo.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_lock_outline_black.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_lock_outline_black.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_reddit_2.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/reddit_2.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_default_image.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_refresh_black.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_refresh_black.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_info_outline_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_info_outline_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_download.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/download.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_main.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/main.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_home_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_home_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_reddit_3.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/reddit_3.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_assignment_grey.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_assignment_grey.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_google_icn.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/google_icn.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_google.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/google.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_left.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/left.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_refresh.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/refresh.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_menu.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/menu.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_description_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_description_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_nexina.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/nexina.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_home_grey.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_home_grey.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_lock.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/lock.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_border_all_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_border_all_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_bookmark.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/bookmark.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_info.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/info.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_share_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_share_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_reddit_4.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/reddit_4.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_desktop_mac_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_desktop_mac_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_setting.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/setting.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_notready.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/notready.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_star_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_star_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_right.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/right.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_logo2.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/logo2.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_settings_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_settings_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_image_black.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_image_black.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_assignment_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_assignment_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_linkedin.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/linkedin.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_search_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_search_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_icon.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/icon.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_reddit_1.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/reddit_1.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_https_black.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_https_black.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_cached_black.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_cached_black.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_view_source.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/view_source.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/layout_list.xml.flat",
+        "source": "nexina.omni.browser.app-main-33:/layout/list.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_arrow_forward_white.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_arrow_forward_white.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_ic_arrow_forward_grey.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/ic_arrow_forward_grey.png"
+    },
+    {
+        "merged": "nexina.omni.browser.app-merged_res-31:/drawable-xhdpi_app_icon.png.flat",
+        "source": "nexina.omni.browser.app-main-33:/drawable-xhdpi/app_icon.png"
+    }
+]

@@ -1,0 +1,52 @@
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\bin\Debug\Hover Widget.exe
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\bin\Debug\Hover Widget.pdb
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\bin\Debug\Hover Widget.xml
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.HoverWidget.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Resources.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover Widget.exe
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover Widget.xml
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover Widget.pdb
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form2.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form3.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form4.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form5.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form6.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form7.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\bin\Debug\Hover Widget.exe.config
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form8.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form9.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form10.resources
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\bin\Debug\Hover Widget.exe.manifest
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\bin\Debug\Hover Widget.application
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover Widget.TrustInfo.xml
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover Widget.exe.manifest
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover Widget.application
+E:\Project\Software\HoverWidget\Hover Widget\Hover Widget\obj\x86\Debug\Hover Widget.vbproj.GenerateResource.Cache
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.vbproj.AssemblyReference.cache
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.HoverWidget.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form10.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form2.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form4.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form5.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form8.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Resources.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form3.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form6.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form7.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover_Widget.Form9.resources
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.vbproj.GenerateResource.cache
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.vbproj.CoreCompileInputs.cache
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.TrustInfo.xml
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.exe
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.xml
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.pdb
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\bin\Debug\Hover Widget.exe.config
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\bin\Debug\Hover Widget.exe.manifest
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\bin\Debug\Hover Widget.application
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\bin\Debug\Hover Widget.exe
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\bin\Debug\Hover Widget.pdb
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\bin\Debug\Hover Widget.xml
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\bin\Debug\Microsoft.VisualBasic.PowerPacks.Vs.dll
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.exe.manifest
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Widget.application
+E:\GitHub\demo-projects\Visual Basics\hover-widget\Hover Widget\obj\x86\Debug\Hover Wi.B4507A2E.Up2Date

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/main.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/main.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/menu.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/menu.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/notready.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/notready.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/setting.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/setting.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/info.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/info.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/list.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/list.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/bookmark.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/bookmark.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/history.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/history.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/lock.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/lock.xml"
+    },
+    {
+        "merged": "nexina.omni.browser.app-mergeDebugResources-30:/layout/view_source.xml",
+        "source": "nexina.omni.browser.app-main-33:/layout/view_source.xml"
+    }
+]
